@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="71.01pt" version="1.1" viewBox="0 0 179.478 71.01" width="179.478pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 71.01 
+L 179.478 71.01 
+L 179.478 0 
+L 0 0 
+z
+" style="fill:none;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path clip-path="url(#pf70c741818)" d="M 128.349 39.075 
+C 129.351468 39.075 130.313012 38.698842 131.021864 38.029371 
+C 131.730715 37.3599 132.129 36.451775 132.129 35.505 
+C 132.129 34.558225 131.730715 33.6501 131.021864 32.980629 
+C 130.313012 32.311158 129.351468 31.935 128.349 31.935 
+C 127.346532 31.935 126.384988 32.311158 125.676136 32.980629 
+C 124.967285 33.6501 124.569 34.558225 124.569 35.505 
+C 124.569 36.451775 124.967285 37.3599 125.676136 38.029371 
+C 126.384988 38.698842 127.346532 39.075 128.349 39.075 
+z
+" style="fill:none;stroke:#000000;stroke-linejoin:miter;stroke-width:1.5;"/>
+   </g>
+   <g id="line2d_1">
+    <path clip-path="url(#pf70c741818)" d="M 17.649 35.505 
+L 63.333 35.505 
+M 63.333 27.855 
+L 63.333 43.155 
+M 69.165 27.855 
+L 69.165 43.155 
+M 69.165 35.505 
+L 114.849 35.505 
+" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:1.5;"/>
+   </g>
+   <g id="line2d_2">
+    <path clip-path="url(#pf70c741818)" d="M 124.569 35.505 
+L 114.849 35.505 
+" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:1.5;"/>
+   </g>
+   <g id="line2d_3">
+    <path clip-path="url(#pf70c741818)" d="M 161.829 12.555 
+L 161.829 25.305 
+L 140.229 25.305 
+L 140.229 45.705 
+L 161.829 45.705 
+L 161.829 58.455 
+" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:1.5;"/>
+   </g>
+   <g id="line2d_4">
+    <path clip-path="url(#pf70c741818)" d="M 132.129 25.305 
+L 132.129 45.705 
+" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:1.5;"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf70c741818">
+   <rect height="56.61" width="165.078" x="7.2" y="7.2"/>
+  </clipPath>
+ </defs>
+</svg>
